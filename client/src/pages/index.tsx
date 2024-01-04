@@ -41,7 +41,7 @@ const Home: FC = () => {
         level={1}
         style={{ fontSize: "3em", color: "#455A64", marginBottom: "30px" }}
       >
-        Spark! Bites
+        Spark! Bytes
       </Title>
       <div style={{ margin: "20px" }}>
         <Button
